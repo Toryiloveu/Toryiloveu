@@ -2,9 +2,7 @@
 - 👀 I’m interested in Android development
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on App developement
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I never forget to code
+- ⚡ Fun fact: I love watching horror movies
 
 <!---
 Toryiloveu/Toryiloveu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
